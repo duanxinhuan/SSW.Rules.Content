@@ -6,9 +6,7 @@ authors: []
 created: 2022-09-21T04:20:52.902Z
 guid: dcd52f5f-7ca9-4826-b5f9-215b85d6db1e
 ---
-W﻿hen we first start out as a developer, we want to show what we can do by creating complex solutions despite, however as we grow elder, we learn to keep things simple.       
-
-<!--endintro-->
+> Developers are like a fine wine, they get better with age. W﻿hen we first start out as a developer, we want to show what we can do by creating complex solutions. As we gain experience, we learn to show our worth by creating simple solutions.<!--endintro-->
 
 H﻿ow can a solution become over-complicated? let's take this
 
